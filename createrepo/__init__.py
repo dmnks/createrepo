@@ -56,7 +56,7 @@ from utils import _gzipOpen, compressFile, compressOpen, checkAndMakeDir, GzipFi
 from utils import num_cpus_online
 import deltarpms
 
-__version__ = '0.9.9'
+__version__ = '0.10.4'
 
 
 class MetaDataConfig(object):
